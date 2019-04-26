@@ -1,0 +1,5 @@
+The following softwares and libraries need to be installed for project:
+1. Python
+2. Jupyter Notebook
+3. Keras
+4. nltk
